@@ -1,0 +1,85 @@
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojResolveAssemblyReference.cache
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDMKhoa.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmMain.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Login.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.Cache
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemDMKhoa.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDMMonHoc.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemDMMonHoc.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDMLop.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemDMLop.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDMDiem.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemDMDiem.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemSinhVien.resources
+D:\Save project VS\1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmSinhVien.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojResolveAssemblyReference.cache
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemDMDiem.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDMKhoa.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDMLop.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemDMLop.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDMMonHoc.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemDMMonHoc.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDMDiem.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemSinhVien.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmMain.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmThemDMKhoa.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmSinhVien.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Login.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.Cache
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe.licenses
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+E:\Win7-Junctions\Downloads\(NEWEST)QL DIEM SV\(NEWEST)QL DIEM SV\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
